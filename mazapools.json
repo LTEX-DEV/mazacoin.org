@@ -1,0 +1,22 @@
+{
+    "coinbase_tags" : {
+        "/cryptoadhd/": {
+            "name": "cryptoadhd",
+            "link": "http://cryptoadhd.com"
+        },
+        "/zpool/": {
+            "name": "zpool",
+            "link": "https://www.zpool.ca"
+        }
+    },
+    "payout_addresses" : {
+        "MSjwTboFMLZNmZadrQwRmCXvaRXUBtB96X  " : {
+            "name" : "cryptoadhd",
+            "link" : "http://cryptoadhd.com"
+        },
+        "MSUjEBWkMb2gWCh8iy1WGaiFG7LcVNqCqs  " : {
+            "name" : "zpool",
+            "link" : "https://www.zpool.ca"
+        }
+    }
+}
