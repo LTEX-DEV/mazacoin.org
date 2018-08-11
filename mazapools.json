@@ -7,6 +7,18 @@
         "/zpool/": {
             "name": "zpool",
             "link": "https://www.zpool.ca"
+        },
+        "/multipool/": {
+            "name": "multipool",
+            "link": "https://www.multipool.us"
+        },
+        "/zergpool/": {
+            "name": "zergpool",
+            "link": "http://zergpool.com"
+        },
+        "/blockmasters/": {
+            "name": "blockmasters",
+            "link": "http://blockmasters.co"
         }
     },
     "payout_addresses" : {
@@ -17,6 +29,18 @@
         "MSUjEBWkMb2gWCh8iy1WGaiFG7LcVNqCqs" : {
             "name" : "zpool",
             "link" : "https://www.zpool.ca"
+        },
+        "MA2aWN7oKT51hVkobLxXjYKdttQSSG682z" : {
+            "name" : "multipool",
+            "link" : "https://www.multipool.us"
+        },
+        "MMmNuYqAZJeKntqpvzaDBDQU3yjLv54VBh" : {
+            "name" : "zergpool",
+            "link" : "http://zergpool.com"
+        },
+        "MLkjGXtehGjGRXUK9d1y338Q5BVxBZVjuQ" : {
+            "name" : "blockmasters",
+            "link" : "http://blockmasters.co"
         }
     }
 }
